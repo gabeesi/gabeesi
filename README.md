@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Gabriela
+
+Frontend Developer from Brazil 🇧🇷
+
+💻 Technologies
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+🚀 Currently learning
+- React
+- APIs
+- Responsive Design
+
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/gabrielanuness/
+Email: gabeesi.kg@gmail.com
 
 <!--
 **gabeesi/gabeesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
