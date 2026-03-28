@@ -1,4 +1,4 @@
-# 🌐 Gabriela Nunes | Frontend Developer
+# 🌐 Gabriela Costa | Frontend Developer
 
 Welcome to my portfolio!
 
